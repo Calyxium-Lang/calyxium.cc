@@ -1,0 +1,25 @@
+{
+  "name": "calyxium-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "keywords": [],
+  "author": "Calyxium",
+  "license": "ISC",
+  "description": "website for calyxium",
+  "dependencies": {
+    "astro": "^4.13.3",
+    "express": "^4.19.2",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.3.0",
+    "typescript": "^5.5.4"
+  }
+}
